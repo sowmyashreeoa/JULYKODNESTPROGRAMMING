@@ -1,0 +1,10 @@
+package controlconstruct;
+
+public class practiceifelse {
+	public static void main(String[] args) {
+		int i=1;
+		if(true)
+			System.out.println("kodnest");
+	}
+
+}

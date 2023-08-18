@@ -1,0 +1,19 @@
+package projectquestions;
+
+public class labelwhile {
+	public static void main(String[] args) {
+		int j=1;
+		rajini:while(j<=5) {
+			int i=1;
+			tamanna:while(i<=5) {
+				System.out.print("*");
+				i++;
+				break ;
+			}
+			System.out.println();
+			j++;
+			
+		}
+	}
+
+}

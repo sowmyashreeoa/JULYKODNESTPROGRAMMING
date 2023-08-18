@@ -1,0 +1,14 @@
+package controlconstruct;
+
+public class practicecontinue {
+public static void main(String[] args) {
+	for(int i=1;i<=5;i++) {
+		System.out.println("hi");
+		continue;
+		System.out.println("bye");
+		//We can’t print the statement exactly below the continue statement.
+
+
+	}
+}
+}

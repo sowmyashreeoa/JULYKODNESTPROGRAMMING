@@ -1,0 +1,18 @@
+package controlconstruct;
+
+public class infiniteloop {
+	public static void main(String[] args) {
+		//for(;;) {
+			//System.out.println("kodnest");
+		//}
+	//}
+		while(1) {
+		System.out.println("kodnest");
+		}
+		//do {
+			//System.out.println("kodnest");
+		//}while(true);
+		
+
+}
+}

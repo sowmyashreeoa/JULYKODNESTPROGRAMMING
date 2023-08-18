@@ -1,0 +1,14 @@
+package controlconstruct;
+
+public class practice {
+public static void main(String[] args) {
+	int s=10;
+	int count=0;
+	do {
+		System.out.println("kodnest");
+		s+=3;
+		count++;
+	}while(s<=15);
+	System.out.println(count);
+}
+}

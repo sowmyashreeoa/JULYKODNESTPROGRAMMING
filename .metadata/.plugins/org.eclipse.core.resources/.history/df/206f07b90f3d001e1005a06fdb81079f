@@ -1,0 +1,7 @@
+package controlconstruct;
+
+public class practicebrak {
+public static void main(String[] args) {
+	break;
+}
+}
